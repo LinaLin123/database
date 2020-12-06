@@ -1,13 +1,13 @@
 {
 	"quotes": [ {
-        "quote":"1","author":"1", "image":"https://maffia.netlify.app/images/fredrik.png"},
+        "quote":"1","author":"Fredrik", "image":"https://maffia.netlify.app/images/fredrik.png"},
  {
-        "quote":"2","author":"2", "image":"https://maffia.netlify.app/images/mia.png"},
+        "quote":"2","author":"Mia", "image":"https://maffia.netlify.app/images/mia.png"},
  {
-        "quote":"3","author":"3", "image":"https://maffia.netlify.app/images/mimmi.png"},
+        "quote":"3","author":"Mimmi", "image":"https://maffia.netlify.app/images/mimmi.png"},
  {
-        "quote":"4","author":"4", "image":"https://maffia.netlify.app/images/joakim.png"},
+        "quote":"4","author":"Joakim", "image":"https://maffia.netlify.app/images/joakim.png"},
  {
-        "quote":"5","author":"5", "image":"https://maffia.netlify.app/images/sabina.png"}
+        "quote":"5","author":"Sabina", "image":"https://maffia.netlify.app/images/sabina.png"}
      ]
      }
